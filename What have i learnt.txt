@@ -1,0 +1,23 @@
+-technologies learnt
+Web scrapping using python
+a) Beautiful soup - for static pages
+b) Selenium.webdriver - for dynamic pages
+
+-Obstacles faced
+1)Dynamic Web Scraping
+2) Differentiating between tabs present in the Secondary Page 
+for example: 
+Differentiating between tab - Land Use Restrictions and Activites as the table name.
+
+
+Final Output: 
+i have scraped two tabs in secondary page:
+
+1)Land_Use_Restrictions 
+2)Future_Activities
+3)Completed_Activities
+4)Currently Scheduled Activities
+5)Permitted Units
+6)Units Undergoing Closure
+7)Permit Maintenance
+ 
